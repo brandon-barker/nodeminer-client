@@ -10,6 +10,7 @@ This app is only required if you wish to enable the following functionality in *
 * Shutdown / Restart Machine 
 * Detect defunct cgminer process & auto restart 
 * Detect if your miner isn't running and automatically start it 
+* Stop / Restart mining
 
 ## Installation
 
